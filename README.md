@@ -38,7 +38,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='https://user-images.githubusercontent.com/96799357/224466186-320a07d2-e33f-4563-829a-24126213bf69.gif' title='Video Demo' width='' alt='Video Demo' />
 
 
-GIF created with **your chosen GIF tool**
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -51,7 +51,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Prabhdeep Brar**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
