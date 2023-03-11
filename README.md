@@ -6,9 +6,9 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-**CalcDebug** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**CalcDebug** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **In this app every single section crashed the app for whatever reason so we had to utilize the debugger and figure out what was the errors its also a pretty interesting app utilizing kotlin fundamentals.**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🥶😎🧠**
 
 ## Application Features
 
@@ -47,7 +47,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+In this unit I was able to learn more about developing in kotlin and identifiying bugs.
 
 ## License
 
